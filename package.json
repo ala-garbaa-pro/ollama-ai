@@ -1,0 +1,12 @@
+{
+  "name": "Scrim-s06c53f",
+  "description": "https://v2.scrimba.com/intro-to-mistral-ai-c035/~0n",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "ollama": "^0.5.2"
+  }
+}
